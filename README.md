@@ -16,7 +16,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiofelippe-deiro/)](https://www.linkedin.com/in/sergiofelippe-deiro/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:sergiofelippe.deiro@gmail.com)](mailto:sergiofelippe.deiro@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/felippe.souza/)
-[![Youtube](https://img.shields.io/badge/-Youtube-cc0000?&logo=Youtube&logoColor=FFFFFF)](https://www.instagram.com/felippe.souza/)
+[![Youtube](https://img.shields.io/badge/-Youtube-cc0000?&logo=Youtube&logoColor=FFFFFF)](https://www.youtube.com/channel/UC2B0tPYW4yPf21krPS0fBcw)
 
 
 <!--
