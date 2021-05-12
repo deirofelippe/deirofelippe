@@ -1,6 +1,6 @@
 # Buh!
 
-> - Eu sou o felippe, pode me chamar de feh. Se me chamar de Sérgio vai levar um mocão.
+> - Eu sou o **Felippe**, pode me chamar de feh. Se me chamar de Sérgio vai levar um mocão.
 > - Cursando ciências da computação na Unicarioca, estou no 6º de 8 períodos.
 > - Gosto de estudar os fundamentos das tecnologias: arquitetura de computadores, sistemas operacionais, compiladores, redes e etc.
 > - Gosto de aprender coisas que provavelmente não vou trabalhar ou que atualmente a chance é baixa como biologia, química, marketing digital, ciência de dados, machine learning ou qualquer outra coisa estranha por pura curiosidade mesmo 😄, as vezes por falta do que fazer.
