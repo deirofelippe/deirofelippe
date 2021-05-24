@@ -1,7 +1,7 @@
 # Buh!
 
 > - Eu sou o **Felippe**, pode me chamar de feh. Se me chamar de Sérgio vai levar um mocão.
-> - Cursando ciências da computação na Unicarioca, estou no 6º de 8 períodos.
+> - Cursando ciência da computação na Unicarioca, estou no 6º de 8 períodos.
 > - Gosto de estudar os fundamentos das tecnologias: arquitetura de computadores, sistemas operacionais, compiladores, redes e etc.
 > - Gosto de aprender coisas que provavelmente não vou trabalhar ou que atualmente a chance é baixa como biologia, química, marketing digital, ciência de dados, machine learning ou qualquer outra coisa estranha por pura curiosidade mesmo 😄, as vezes por falta do que fazer.
 > - Ensinar as pessoa é um prazer enorme desde o ensino médio.
@@ -10,7 +10,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felippedesouza&layout=compact&hide_border=true&theme=dracula&hide=HTML,CSS,Java,Jupyter%20Notebook,Blade,Vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Onde eu estou????
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiofelippe-deiro/)](https://www.linkedin.com/in/sergiofelippe-deiro/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:sergiofelippe.deiro@gmail.com)](mailto:sergiofelippe.deiro@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/felippe.souza/)
