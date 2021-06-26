@@ -1,12 +1,12 @@
 # Buh!
 
-> - Eu sou o **Felippe**. Se me chamar de Sérgio vai levar um mocão.
-> - Cursando ciência da computação na Unicarioca, estou no 6º de 8 períodos.
-> - Gosto de estudar os fundamentos das tecnologias: arquitetura de computadores, sistemas operacionais, compiladores, redes e etc.
-> - Gosto de aprender coisas que provavelmente não vou trabalhar ou que atualmente a chance é baixa como biologia, química, marketing digital, ciência de dados, machine learning ou qualquer outra coisa estranha por pura curiosidade mesmo 😄, as vezes por falta do que fazer.
-> - Consigo dobrar a ponta dos dedo das mãos.
-> - Ensinar as pessoa é um prazer enorme desde o ensino médio.
-> - Ah para, meu senso de humor é bom, vai :sunglasses: 
+- Eu sou o **Felippe**. Se me chamar de Sérgio vai levar um mocão.
+- Cursando ciência da computação na Unicarioca, estou no 6º de 8 períodos.
+- Gosto de estudar os fundamentos das tecnologias: arquitetura de computadores, sistemas operacionais, compiladores, redes e etc.
+- Gosto de aprender coisas que provavelmente não vou trabalhar ou que atualmente a chance é baixa como biologia, química, marketing digital, ciência de dados, machine learning ou qualquer outra coisa estranha por pura curiosidade mesmo 😄, as vezes por falta do que fazer.
+- Consigo dobrar a ponta dos dedo das mãos.
+- Ensinar as pessoa é um prazer enorme desde o ensino médio.
+- Ah para, meu senso de humor é bom, vai :sunglasses: 
 
 ## Estatísticas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felippedesouza&layout=compact&hide_border=true&theme=gruvbox&hide=HTML,CSS,Java,Jupyter%20Notebook,Blade,Vue)](https://github.com/anuraghazra/github-readme-stats)
