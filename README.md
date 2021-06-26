@@ -12,10 +12,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felippedesouza&show_icons=true&theme=gruvbox)
 
 ## Onde eu estou????
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiofelippe-deiro/)](https://www.linkedin.com/in/sergiofelippe-deiro/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:sergiofelippe.deiro@gmail.com)](mailto:sergiofelippe.deiro@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/felippe.souza/)
-[![Youtube](https://img.shields.io/badge/-Youtube-cc0000?&logo=Youtube&logoColor=FFFFFF)](https://www.youtube.com/channel/UC2B0tPYW4yPf21krPS0fBcw)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiofelippe-deiro/)](https://www.linkedin.com/in/sergiofelippe-deiro/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergiofelippe.deiro@gmail.com)](mailto:sergiofelippe.deiro@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/felippe.souza/)
+[![Youtube](https://img.shields.io/badge/-Youtube-cc0000?style=flat-square&logo=Youtube&logoColor=FFFFFF)](https://www.youtube.com/channel/UC2B0tPYW4yPf21krPS0fBcw)
 
 
 <!--
