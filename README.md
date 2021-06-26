@@ -9,6 +9,8 @@
 ## Estatísticas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felippedesouza&layout=compact&hide_border=true&theme=dracula&hide=HTML,CSS,Java,Jupyter%20Notebook,Blade,Vue)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felippedesouza&show_icons=true&theme=gruvbox)
+
 ## Onde eu estou????
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiofelippe-deiro/)](https://www.linkedin.com/in/sergiofelippe-deiro/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:sergiofelippe.deiro@gmail.com)](mailto:sergiofelippe.deiro@gmail.com)
