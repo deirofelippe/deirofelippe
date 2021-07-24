@@ -3,7 +3,7 @@
 - Eu sou o **Felippe**. Se me chamar de Sérgio vai levar um mocão.
 - Cursando ciência da computação na Unicarioca, estou no 6º de 8 períodos.
 - Gosto de estudar os fundamentos das tecnologias: arquitetura de computadores, sistemas operacionais, compiladores, redes e etc.
-- Gosto de aprender coisas que provavelmente não vou trabalhar ou que atualmente a chance é baixa como biologia, química, marketing digital, ciência de dados, machine learning ou qualquer outra coisa estranha por pura curiosidade mesmo 😄, as vezes por falta do que fazer.
+- Gosto de aprender coisas que provavelmente não vou trabalhar ou que atualmente a chance é baixa como biologia, química, marketing digital, ciência de dados, machine learning ou qualquer outra coisa estranha por pura curiosidade mesmo ou falta do que fazer :grin:, as vezes faço varios nadas também.
 - Consigo dobrar a ponta dos dedo das mãos.
 - Ensinar as pessoa é um prazer enorme desde o ensino médio.
 - Ah para, meu senso de humor é bom, vai :sunglasses: 
