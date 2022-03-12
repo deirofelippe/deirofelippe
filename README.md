@@ -7,7 +7,7 @@ Eu sou o **Felippe** :)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felippedesouza&show_icons=true&theme=gruvbox)
 
-## Onde eu estou????
+## Minhas redes
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiofelippe-deiro/)](https://www.linkedin.com/in/sergiofelippe-deiro/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergiofelippe.deiro@gmail.com)](mailto:sergiofelippe.deiro@gmail.com)
 [![Youtube](https://img.shields.io/badge/-Youtube-cc0000?style=flat-square&logo=Youtube&logoColor=FFFFFF)](https://www.youtube.com/channel/UC2B0tPYW4yPf21krPS0fBcw)
