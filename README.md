@@ -10,7 +10,7 @@ Olá! Sou o **Felippe** :)
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felippedesouza&layout=compact&hide_border=true&theme=gruvbox&hide=HTML,CSS,Java,Jupyter%20Notebook,Blade,Vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felippedesouza&layout=compact&hide_border=true&theme=gruvbox&hide=HTML,CSS,Go,Jupyter%20Notebook,Blade,Vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felippedesouza&show_icons=true&theme=gruvbox)
 
