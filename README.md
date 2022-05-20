@@ -2,11 +2,17 @@
 
 Olá! Sou o **Felippe** :)
 
-- 💻 Sou programador backend que se aventura no frontend.
-- 📖 Atualmente cursando o 7º período Ciência da Computação na Unicarioca.
-- 🎨 Meu caminho inicial era em direção ao design, mas a programação conseguir me desviar. Então isso quer dizer que... também gosto muito de design. Mais facil falar o que não gosto 😆
-- 📚 Fascinado por aprender a base da computação e como qualquer coisa funciona, então disciplinas como arquitetura de computadores, sistemas operacionais, compiladores, redes de computadores conceitos de linguagens de programação, computação gráfica e sistemas de multimídia são as coisas mais perfeitas nesse universo hihihihi. Pena que não da pra estudar tudo de uma vez :'(
-- 🤓 To sempre aprendendo tecnologias e ferramentas novas, principalmente aquelas produtivas que te faz usar mais o teclado do que o mouse.
+Programo desde 2016, passando por Java, PHP e atualmente focando em Javascript. Tenho um grande interesse em frontend e design, mas meu foco é no backend.
+
+Gosto de aprender sobre qualquer coisa que faça eu ser um profissional melhor (estou aberto a sugestões e o que priorizar), então temas como: 
+
+- agilidade com XP ou Scrum; 
+- como trabalhar melhor em equipe e como lidar em certas situações; 
+- fundamentos da computação como sistemas operacionais, redes e compiladores; 
+- segurança e performance de aplicação e banco de dados;
+- práticas de DevOps como CI/CD, Docker, observabilidade e testes automatizados (unitário, integrado, e2e e de performance).
+
+Gosto muito de ensinar, então ser paciente, didático e deixar a pessoa a vontade pra fazer perguntas foi habilidades que desenvolvi com o tempo. No ensino médio ensinei POO para várias pessoas e auxiliei em projetos finais. Na faculdade ensinei lógica de programação.
 
 ##
 
