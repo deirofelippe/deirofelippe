@@ -2,18 +2,6 @@
 
 Olá! Sou o **Felippe** :)
 
-Programo desde 2016, passando por Java, PHP e atualmente focando em Javascript. Tenho um grande interesse em frontend e design, mas meu foco é no backend.
-
-Gosto de aprender sobre qualquer coisa que faça eu ser um profissional melhor (estou aberto a sugestões e o que priorizar), então temas como: 
-
-- agilidade com XP ou Scrum; 
-- como trabalhar melhor em equipe e como lidar em certas situações; 
-- fundamentos da computação como sistemas operacionais, redes e compiladores; 
-- segurança e performance de aplicação e banco de dados;
-- práticas de DevOps como CI/CD, Docker, observabilidade e testes automatizados (unitário, integrado, e2e e de performance).
-
-Gosto muito de ensinar, então ser paciente, didático e deixar a pessoa a vontade pra fazer perguntas foi habilidades que desenvolvi com o tempo. No ensino médio ensinei POO para várias pessoas e auxiliei em projetos finais. Na faculdade ensinei lógica de programação.
-
 ##
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deirofelippe&layout=compact&hide_border=true&theme=gruvbox&hide=HTML,CSS,Go,Jupyter%20Notebook,Blade,Vue)](https://github.com/anuraghazra/github-readme-stats)
